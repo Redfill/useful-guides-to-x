@@ -2,3 +2,10 @@ html {
     font-family: 'Hack', sans-serif;
     font-weight: 100;
 }
+
+.sidebar {
+  float: left;
+  background-color:#8f0025;
+  color: white;
+  width: 80em;
+}
