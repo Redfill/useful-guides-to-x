@@ -26,6 +26,6 @@ a {
 }
 
 .index li a:hover{
+  color: #e0e0e0;
   background-color:#64001A;
-  text-shadow: 0px 2px #7F7F7F;
 }
